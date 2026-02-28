@@ -1,0 +1,15 @@
+# Core LangChain packages
+langchain
+langchain-community
+langchain-text-splitters
+
+# Embeddings & models
+sentence-transformers
+pypdf
+pymupdf
+faiss-cpu
+
+# Utilities
+python-dotenv
+numpy
+ipykernel
